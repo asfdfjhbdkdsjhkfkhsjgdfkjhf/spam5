@@ -24,7 +24,7 @@ falsteni.on('message', message => {//@Flasteni
 	falsteni.on("ready", () => {
 let channel =     falsteni.channels.get("515208908415959059")
 setInterval(function() {
-channel.send(`YYYYYYYY`);
+channel.send(`YYYsssssssYYYYY`);
 }, 15)
 })
 falsteni.on('message', message => {
@@ -41,4 +41,4 @@ falsteni.user.setAvatar(`https://cdn.discordapp.com/attachments/4808845255058391
 }
 });
 	
-falsteni.login('NTE1MjI0MDcxMjAyNDA2NDEw.Dth_hQ.n_wiBxwFnmIcR7s30O72pg1dDiU');
+falsteni.login('NTE1MjI4NzM1MDA4NDA3NTgz.DtiD2w.kZfxtKQ8AqQwfIULFEXWmQa_qS8');
